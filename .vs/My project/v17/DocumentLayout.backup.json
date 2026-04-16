@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity project\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity project\\my project\\assets\\scripts\\ui_self\\mvc\\controller\\player_main_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_self\\mvc\\controller\\player_main_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\ui_self\\mvc\\mvctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_self\\mvc\\mvctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\ui_self\\mvc\\controller\\player_role_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_self\\mvc\\controller\\player_role_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\ui_self\\mvc\\view\\player_role_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_self\\mvc\\view\\player_role_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\ui_self\\mvc\\view\\player_main_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_self\\mvc\\view\\player_main_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\ui_self\\mvc\\model\\player_data_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_self\\mvc\\model\\player_data_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\npc_move\\scifiwarriorpbrhppolyart\\move_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc_move\\scifiwarriorpbrhppolyart\\move_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity project\\My project\\assets\\scripts\\s_cameracontral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\s_cameracontral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVCTest.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\MVCTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_self\\MVC\\MVCTest.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\MVCTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_self\\MVC\\MVCTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:08:19.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player_Role_Controller.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Role_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Role_Controller.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Role_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Role_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:59:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_Main_Controller.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Main_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Main_Controller.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Main_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_self\\MVC\\Controller\\Player_Main_Controller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:54:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player_Role_View.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\View\\Player_Role_View.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_self\\MVC\\View\\Player_Role_View.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\View\\Player_Role_View.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_self\\MVC\\View\\Player_Role_View.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:06:43.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player_Main_View.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\View\\Player_Main_View.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_self\\MVC\\View\\Player_Main_View.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\View\\Player_Main_View.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_self\\MVC\\View\\Player_Main_View.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvwIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:06:32.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player_Data_Model.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\Model\\Player_Data_Model.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_self\\MVC\\Model\\Player_Data_Model.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\UI_self\\MVC\\Model\\Player_Data_Model.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_self\\MVC\\Model\\Player_Data_Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:20:31.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "S_CameraContral.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\S_CameraContral.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\S_CameraContral.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\S_CameraContral.cs",
+              "RelativeToolTip": "Assets\\Scripts\\S_CameraContral.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:32:07.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MOVE_CODE.cs",
+              "DocumentMoniker": "D:\\unity project\\My project\\Assets\\Scripts\\NPC_MOVE\\SciFiWarriorPBRHPPolyart\\MOVE_CODE.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC_MOVE\\SciFiWarriorPBRHPPolyart\\MOVE_CODE.cs",
+              "ToolTip": "D:\\unity project\\My project\\Assets\\Scripts\\NPC_MOVE\\SciFiWarriorPBRHPPolyart\\MOVE_CODE.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC_MOVE\\SciFiWarriorPBRHPPolyart\\MOVE_CODE.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAuwGYBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:23:31.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
